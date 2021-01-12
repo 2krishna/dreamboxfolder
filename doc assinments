@@ -1,0 +1,10 @@
+1.github on clone url::
+
+
+2)null=True--this is database related queries.
+   blank=True --django field validation queries ,if field is null queries executed but field blank=False ,field is required to fulfil.
+
+3)  array                                                    list
+   1) homegeneous element contains                        1)list is hetro-geneous elements contains,l=["krishna","ravi",10,12.4,]
+   2) import module required                              2)No need of import module
+   3)loop fun is required                                 3)No need of loop module
